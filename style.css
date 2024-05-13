@@ -1,0 +1,12 @@
+body{background-color: #7EB1AC;}
+h1{font-family: Brush Script MT; font-size: 36; color: #334947; background-color: #A9F0CF; text-align: center;}
+p{font-size: 20; color: #345646;}
+ul {list-style-type: none; margin: 10; padding: 10; overflow: hidden; background-color: #4B6D5D;}
+li {float: left;}
+li a {display: block; color: #0ED779; text-align: center; padding: 14px 16px; text-decoration: none;}
+li a: hover {background-color: #396952;}
+.active{background-color: #A9E3C8;}
+li{border-right: 1px solid #7EB1AC;}
+li: last-child {border-right: none;}
+img{margin: auto; display: block;}
+iframe{margin: auto; display: block;}
